@@ -1,2 +1,3 @@
 # hello-world
-This is my first project in GitHub
+
+I like code and I have confidence to learn it for good.
